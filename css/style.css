@@ -121,6 +121,11 @@ text-transform: uppercase;
 color: #4D5AE5;
 
 }
+.nav-ad {
+display: flex;
+gap: 40px;
+font-style: normal;
+}
 
 .menu-link {
     padding-top: 24px;
@@ -149,11 +154,7 @@ color:#434455;
 .main-menu {
     color: #2e2f42;
 }
-.nav-ad {
-    display: flex;
-    gap: 40px;
-    font-style: normal;
-}
+
 h1 {
  max-width: 496px;
  margin-bottom: 48px;
