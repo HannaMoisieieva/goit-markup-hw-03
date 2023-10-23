@@ -32,13 +32,6 @@ body {
     color: #434455;
 }
 
-
-.conteiner {
-    width: 1156px;
-    margin-left: auto;
-    padding: 0 15px;
-    margin: auto;
-}
 .top-header {
     border-bottom: 1px solid #e7e9fc;
 }
@@ -50,7 +43,7 @@ body {
     padding-bottom: 120px;
 }
 
-.conteiner {
+.container {
     max-width: 1158px;
     align-items: center;
     margin-left: auto;
@@ -156,6 +149,8 @@ color:#434455;
     color: #2e2f42;
 }
 .nav-ad {
+    display: flex;
+    gap: 40px;
     font-style: normal;
 }
 h1 {
